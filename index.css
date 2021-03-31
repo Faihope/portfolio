@@ -19,5 +19,6 @@ body{
 
   img{
       float: right;
+      border-radius: 100%;
       
   }
