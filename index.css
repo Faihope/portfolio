@@ -1,0 +1,23 @@
+nav{
+    background-color: burlywood;
+    padding: 3%;
+    
+}
+a{
+    text-decoration: none;
+    float: right;
+    padding-inline-end:1% ;
+    border: 10%;
+    font-size: 1.5rem;
+    margin: 1px;
+}
+body{
+
+    background-color: rgb(201, 140, 166);
+    
+}
+
+  img{
+      float: right;
+      
+  }
