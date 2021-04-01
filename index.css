@@ -1,5 +1,5 @@
 nav{
-    background-color: burlywood;
+    
     padding: 3%;
     
 }
@@ -15,10 +15,31 @@ body{
 
     background-color: rgb(201, 140, 166);
     
+    
 }
 
   img{
-      float: right;
+      float: left;
       border-radius: 100%;
+      margin-left: 200px;
       
   }
+ul, li, p, h1{
+    font-size: 1.5rem;
+    font-style: italic;
+
+}
+.side{
+    width: 30%;
+    float: left;
+     
+}
+.column{
+    width: 350px;
+    float: left;
+    
+}
+h1{
+    color:white;
+}
+
