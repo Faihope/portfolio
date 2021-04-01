@@ -42,4 +42,10 @@ ul, li, p, h1{
 h1{
     color:white;
 }
+.name{
+    font-style: italic;
+    opacity: 0.8;
+    text-decoration: underline;
+    text-decoration-color: beige;
+}
 
