@@ -10,6 +10,7 @@ a{
     border: 10%;
     font-size: 1.5rem;
     margin: 1px;
+    color: white;
 }
 body{
 
@@ -26,8 +27,12 @@ body{
   }
 ul, li, p, h1{
     font-size: 1.5rem;
-    font-style: italic;
+    font-style: normal;
+    font-family: fantasy;
 
+}
+li{
+    color: white;
 }
 .side{
     width: 30%;
@@ -41,11 +46,18 @@ ul, li, p, h1{
 }
 h1{
     color:white;
+    font-family: serif;
 }
 .name{
     font-style: italic;
     opacity: 0.8;
     text-decoration: underline;
     text-decoration-color: beige;
+}
+#intro{
+    color: white;
+    font-size: 2rem;
+    font-family: serif;
+    
 }
 
