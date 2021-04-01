@@ -14,7 +14,7 @@ a{
 }
 body{
 
-    background-color: rgb(201, 140, 166);
+    background-color: rgb(190, 152, 194);
     
     
 }
@@ -45,6 +45,7 @@ li{
     font-family: monospace;
     
 }
+
 h1{
     color:white;
     font-family: serif;
@@ -61,10 +62,11 @@ h1{
     font-family: serif;
     
 }
-#about{
+.about{
     color: white;
     font-family: serif;
     font-size: 2rem;
+    
 }
 
 
