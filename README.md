@@ -19,7 +19,7 @@ CSS
 JavaScript
 Git
 ### Live Site
-View [live](https://faihope.github.io/Anitaskitchen/)
+View [live](https://faihope.github.io/portfolio/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
 License format:
