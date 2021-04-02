@@ -26,8 +26,8 @@ body{
   img{
       float: left;
       border-radius: 100%;
-      margin-left: 200px;
-      margin-right: 200px;
+      margin-left: 100px;
+      margin-right: 100px;
       
   }
   /*styles the ul,li,p and h1 elements at once*/
