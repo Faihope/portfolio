@@ -3,6 +3,7 @@ nav{
     padding: 3%;
     
 }
+/*styles the links*/
 a{
     text-decoration: none;
     float: right;
@@ -12,13 +13,14 @@ a{
     margin: 1px;
     color: white;
 }
+/*styles the body */
 body{
 
     background-color: rgb(190, 152, 194);
     
     
 }
-
+/*styles the image*/
   img{
       float: left;
       border-radius: 100%;
@@ -26,6 +28,7 @@ body{
       margin-right: 200px;
       
   }
+  /*styles the ul,li,p and h1 elements at once*/
 ul, li, p, h1{
     font-size: 1.5rem;
     font-style: normal;
@@ -40,6 +43,7 @@ li{
     float: left;
      
 }
+/*styles the class column elements*/
 .column{
     width: 350px;
     float: left;
