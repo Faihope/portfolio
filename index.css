@@ -15,14 +15,18 @@ a{
     border: 10%;
     font-size: 1.5rem;
     margin: 1px;
-    color: white;
+    color: black;
+}
+a:hover{
+    color: cornsilk;
 }
 /*styles the body */
 body{
 
-    background-image: url("flower.jpg");
+    background-image: url("background1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+       
     
     
     
@@ -37,9 +41,10 @@ body{
   }
   /*styles the ul,li,p and h1 elements at once*/
 ul, li, p, h1{
-    font-size: 25px;
+    font-size: 30px;
     font-style: normal;
     font-family: fantasy;
+
 
 }
 li{
@@ -60,14 +65,15 @@ li{
 }
 
 h1{
-    color:white;
+    color:black;
     font-family: serif;
 }
 .name{
     font-style: italic;
-    opacity: 0.8;
+    
     text-decoration: underline;
     text-decoration-color: beige;
+    
 }
 #intro{
     color: white;
