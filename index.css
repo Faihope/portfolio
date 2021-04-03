@@ -1,4 +1,6 @@
-
+*{
+    box-sizing: content-box;
+}
 
 nav{
     
@@ -18,7 +20,10 @@ a{
 /*styles the body */
 body{
 
-    background-color: rgb(190, 152, 194);
+    background-image: url("flower.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
     
     
 }
@@ -83,19 +88,8 @@ h1{
 span{
     color:black;
 }
-@media screen and (min-width: 480px) and (max-width: 767px) {
-    body{
-        background-color: springgreen;
-    }
-    .column{
-        float: left;
-        font-family: monospace;
-        padding: 10px;
-        color: red;
-    }
-}
-footer{
-    background-color: springgreen;
-}
+
+
+
 
 
