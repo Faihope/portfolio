@@ -66,8 +66,8 @@ h1 {
 }
 
 .column {
-    width: 10%;
-    height: 100%;
+    width: 300px;
+    height: 00%;
     float: left;
     padding-right: 100px;
     padding-left: 200px;
