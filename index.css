@@ -79,6 +79,10 @@ h1 {
 
 
 }
+span{
+    text-decoration: underline;
+    color: blue;
+}
 
 .image {
     padding: 0% 5% 2% 5%;
